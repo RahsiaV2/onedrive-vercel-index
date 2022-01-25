@@ -2,10 +2,8 @@
   "clientId": "96441c1d-b645-4792-8ed9-5690cc6e7256",
   "obfuscatedClientSecret": "U2FsdGVkX1+gWJTDZYjDEfSeP1CHYc2dJCf4OqPyxufVNGuyUO8s5AzSJo9nV4/yFWYi1ZS04HABWj5Lp4Uh5w==",
   "redirectUri": "http://localhost",
-  {
   "authApi": "https://login.partner.microsoftonline.cn/common/oauth2/v2.0/token",
   "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
-}
   "scope": "user.read files.read.all offline_access",
   "directLinkRegex": "public[.].*[.]files[.]1drv[.]com"
 }
